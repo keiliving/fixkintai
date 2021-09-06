@@ -95,8 +95,8 @@
 
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
-    "skipLibCheck": true,                                /* Skip type checking all .d.ts files. */
+    "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
     "allowJs": true,       /* Allow javascript files to be compiled. */
-    "outDir": "./dist",    /* Redirect output structure to the directory. */
+    "outDir": "./dist"    /* Redirect output structure to the directory. */
   }
 }
