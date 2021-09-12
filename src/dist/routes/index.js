@@ -10,5 +10,6 @@ var router = express.Router();
 router.get('/', function (req, res, next) {
     res.render('index', { title: 'Express' });
     (0, handler_1.default)();
+    //sendMessage()
 });
 module.exports = router;

@@ -99,7 +99,7 @@ function renderTopPage(cookie) {
             "cookie": cookie
         }
     }, function (error, response, body) {
-        console.log(response);
+        //console.log(response);
     });
 }
 exports.default = requestTopPage;

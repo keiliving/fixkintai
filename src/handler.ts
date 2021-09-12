@@ -105,7 +105,7 @@ function renderTopPage(cookie:string){
       "accept-language": "ja",
       "cookie": cookie
     }}, function (error:any, response:any, body:any){
-      console.log(response)
+      //console.log(response);
     });
 }
 
